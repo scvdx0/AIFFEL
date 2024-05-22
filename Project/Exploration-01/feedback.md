@@ -1,14 +1,17 @@
-**PRT(Peer Review Template)**  
-| Reviewer : 김지나님
+**PRT(Peer Review Template)**
+> Reviewer : 김지나님 ([🔗](https://github.com/DevHDL/AIFFEL/pull/2))
 - [o]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요? (완성도)**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 캡쳐하여 사진으로 첨부
         - Project 1
-          
-        - Prpkect 2
-  
+        <img width="687" alt="스크린샷 2024-05-22 17 36 07" src="https://github.com/DevHDL/AIFFEL/assets/103316381/4b9f7939-b6d1-4c7e-a349-2952c40d3ab5">
+
+        - Project 2
+          <img width="361" alt="스크린샷 2024-05-22 17 38 23" src="https://github.com/DevHDL/AIFFEL/assets/103316381/ee8545fb-c9f1-466e-9f1a-82a1dfd2bdf2">
+<img width="575" alt="스크린샷 2024-05-22 17 49 39" src="https://github.com/DevHDL/AIFFEL/assets/103316381/9ce0a9ec-8974-45b4-980c-83f9321586ba">
+
 
 - [o]  **2. 프로젝트에서 핵심적인 부분에 대한 설명이 주석(닥스트링) 및 마크다운 형태로 잘 기록되어있나요? (설명)**
     - [o]  모델 선정 이유

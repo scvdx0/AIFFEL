@@ -36,6 +36,7 @@ Price와 상관관계가 높은 데이터만 훈련시키기 -> 여러 테스트
     - [ ]  어려웠던 점
      
 ![화면 캡처 2024-05-29 171017](https://github.com/DevHDL/AIFFEL/assets/168398983/9e76da9d-5f6d-4c12-9025-8336977f25f5)
+![image](https://github.com/DevHDL/AIFFEL/assets/163500244/83e20781-2a61-4101-ab16-d1090a20b466)
 
 딱히 어려움을 느끼지 않으셨나 봅니다. :thumbsup:
 
